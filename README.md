@@ -10,17 +10,16 @@
 请**严禁**用作**非法用途**！！！  **法网恢恢，疏而不漏**！！！ 请**尊重版权**、**合理合法科学上网**！！！！
 若不遵守！ 后果请**自负**！！！（~~~监狱饭真香~~~）
 
-![img](E:/My_MarkDown/图片/u=3417831322,1527252310&fm=253&fmt=auto&app=138&f=JPEG)
-
-
 
 
 
 ### 1.1 下载完解压后点击exe文件运行如图所示
 
-![image-20220113152255190](E:/My_MarkDown/图片/image-20220113152255190.png)
+![image](https://github.com/xiaojunhao-ccc/AOLIGEI_downloader/blob/main/readme%E8%AF%B4%E6%98%8E%E5%9B%BE%E7%89%87/image-20220113152255190.png)  
 
-​	<img src="E:/My_MarkDown/图片/image-20220113152329344.png" alt="image-20220113152329344" style="zoom:67%;" />
+
+​	![image](https://github.com/xiaojunhao-ccc/AOLIGEI_downloader/blob/main/readme%E8%AF%B4%E6%98%8E%E5%9B%BE%E7%89%87/image-20220113152329344.png)  
+
 
 （此处再次进行提醒：  **请不要用作非法用途！！！ 也严禁倒卖！！！** 如果有此类行为请报警！！！）
 
@@ -30,7 +29,8 @@
 
 点击 “开始下载” 后会出现一个**小弹窗**（**提示：可能会无响应一会儿，但程序并没有卡死！！我只是在检查你的URL是否可以访问，请稍后！**）,请不要害怕和惊慌，因为这只是一个温馨的提示，提示你待会儿可能会有一小段**程序无响应**，（其实可以开个线程来检测URL，这样就不会卡死了），但是我懒哈哈哈，所以就这样吧，等待几秒（取决于你的网速）就好啦！
 
-<img src="E:/My_MarkDown/图片/image-20220113153335749.png" alt="image-20220113153335749" style="zoom:67%;" />
+![image](https://github.com/xiaojunhao-ccc/AOLIGEI_downloader/blob/main/readme%E8%AF%B4%E6%98%8E%E5%9B%BE%E7%89%87/image-20220113153335749.png)  
+
 
 
 
@@ -56,26 +56,27 @@
 
 地址： https://phantomjs.org/download.html  
 
-![image-20220111225156382](E:\My_MarkDown\图片\image-20220111225156382.png)
+![image](https://github.com/xiaojunhao-ccc/AOLIGEI_downloader/blob/main/readme%E8%AF%B4%E6%98%8E%E5%9B%BE%E7%89%87/image-20220111225156382.png)
+
 
 下载完成后是一个压缩包（如图）
 
-![image-20220111230012170](E:\My_MarkDown\图片\image-20220111230012170.png)
-
+![image](https://github.com/xiaojunhao-ccc/AOLIGEI_downloader/blob/main/readme%E8%AF%B4%E6%98%8E%E5%9B%BE%E7%89%87/image-20220111230012170.png)  
 将安装包解压得到（如图）
 
-![image-20220111230114420](E:\My_MarkDown\图片\image-20220111230114420.png)
+![image](https://github.com/xiaojunhao-ccc/AOLIGEI_downloader/blob/main/readme%E8%AF%B4%E6%98%8E%E5%9B%BE%E7%89%87/image-20220111230114420.png)  
 
 进入bin目录，复制里面的**phantomjs.exe**文件放到你的<u>python安装目录</u>**或者**你的<u>py项目文件目录</u>（如图）
 
-![image-20220111230230232](E:\My_MarkDown\图片\image-20220111230230232.png)
+![image](https://github.com/xiaojunhao-ccc/AOLIGEI_downloader/blob/main/readme%E8%AF%B4%E6%98%8E%E5%9B%BE%E7%89%87/image-20220111230230232.png) 
 
-![image-20220113151910257](E:/My_MarkDown/图片/image-20220113151910257.png)
+![image](https://github.com/xiaojunhao-ccc/AOLIGEI_downloader/blob/main/readme%E8%AF%B4%E6%98%8E%E5%9B%BE%E7%89%87/image-20220113151910257.png)  
 
 **2.1.2. 安装必要的第三方库：**
 python提示缺什么库安装什么库（pip install 库名），不会就百度吧！
 
-<img src="E:\My_MarkDown\图片\image-20220111225834773.png" alt="image-20220111225834773" style="zoom:33%;" />
+![image](https://github.com/xiaojunhao-ccc/AOLIGEI_downloader/blob/main/readme%E8%AF%B4%E6%98%8E%E5%9B%BE%E7%89%87/image-20220111225834773.png) 
+
 
 
 
@@ -85,7 +86,7 @@ python提示缺什么库安装什么库（pip install 库名），不会就百�
 
 为什么有的QThread用terminate结束会直接把程序卡死.....  
 
-![image-20220113155407106](E:/My_MarkDown/图片/image-20220113155407106.png)
+![image](https://github.com/xiaojunhao-ccc/AOLIGEI_downloader/blob/main/readme%E8%AF%B4%E6%98%8E%E5%9B%BE%E7%89%87/image-20220113155407106.png)  
 
 
 
